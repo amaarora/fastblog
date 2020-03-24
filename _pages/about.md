@@ -4,7 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-# About
 <div class="img-div" markdown="0">
   <image src="/images/AmanArora.png"/>
   <br />
