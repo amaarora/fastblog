@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: fastaiexplained
-description: Everything related to "fastai" & "deep learning" thingies. 
+description: This is a place where I write freely and try to uncomplicate the complicated related to "fastai" and other "deep learning" thingies for myself and everyone else through Python code. 
 github_username: amaarora
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "fastaiexplained"
@@ -55,7 +55,7 @@ show_image: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: 
+google_analytics: UA-158677010-1
 
 exclude:
   - docker-compose.yml
